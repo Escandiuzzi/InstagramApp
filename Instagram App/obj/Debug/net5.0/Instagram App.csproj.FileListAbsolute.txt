@@ -1,0 +1,38 @@
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\bin\Debug\net5.0\Instagram App.exe
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\bin\Debug\net5.0\Instagram App.deps.json
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\bin\Debug\net5.0\Instagram App.runtimeconfig.json
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\bin\Debug\net5.0\Instagram App.runtimeconfig.dev.json
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\bin\Debug\net5.0\Instagram App.dll
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\bin\Debug\net5.0\ref\Instagram App.dll
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\bin\Debug\net5.0\Instagram App.pdb
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\bin\Debug\net5.0\InstaSharper.dll
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.csprojAssemblyReference.cache
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.AssemblyInfoInputs.cache
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.AssemblyInfo.cs
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.csproj.CoreCompileInputs.cache
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.csproj.CopyComplete
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.dll
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\obj\Debug\net5.0\ref\Instagram App.dll
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.pdb
+C:\Users\lfesc\source\repos\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.genruntimeconfig.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\bin\Debug\net5.0\Instagram App.exe
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\bin\Debug\net5.0\Instagram App.deps.json
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\bin\Debug\net5.0\Instagram App.runtimeconfig.json
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\bin\Debug\net5.0\Instagram App.runtimeconfig.dev.json
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\bin\Debug\net5.0\Instagram App.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\bin\Debug\net5.0\ref\Instagram App.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\bin\Debug\net5.0\Instagram App.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\bin\Debug\net5.0\InstaSharper.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.csproj.AssemblyReference.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.AssemblyInfoInputs.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.AssemblyInfo.cs
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.csproj.CoreCompileInputs.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.csproj.CopyComplete
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\obj\Debug\net5.0\ref\Instagram App.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\Instagram App\Instagram App\obj\Debug\net5.0\Instagram App.genruntimeconfig.cache
